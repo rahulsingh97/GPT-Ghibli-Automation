@@ -1,11 +1,9 @@
-
-```markdown
 # 🚀 Ghibli-Styled ChatGPT Automation using Selenium
 
 Welcome to the **Ghibli Style Generator** automation project! 🎨✨  
 This project uses Python, Selenium, and Chrome to automatically log in to ChatGPT, upload a file, and send a prompt — all hands-free! 🖱️🧙‍♂️
 
----
+
 
 ## 📦 Prerequisites
 
@@ -154,4 +152,3 @@ Made with ❤️ by Rahul Singh
 *“A little automation goes a long way.”*
 ```
 
----
