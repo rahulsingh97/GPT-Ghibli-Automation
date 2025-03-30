@@ -150,5 +150,4 @@ Start here:
 
 Made with ❤️ by Rahul Singh  
 *“A little automation goes a long way.”*
-```
 
